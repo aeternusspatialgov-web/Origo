@@ -1,0 +1,7 @@
+{
+  "name": "Origo",
+  "description": "Origo",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
