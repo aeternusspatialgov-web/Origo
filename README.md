@@ -125,9 +125,3 @@ Sobe uma previa local do build gerado.
 - O board demo incluido no projeto e sintetico e serve para demonstracao do fluxo analitico do Origo.
 - O app nao depende de servidor para a experiencia principal.
 - O build atual gera duas entradas: a landing em `/` e a aplicacao em `/app/`.
-
-## Status
-
-O repositorio esta pronto para desenvolvimento local, build de producao e evolucao incremental da ferramenta.
-
-Os links publicos finais da landing e do GitHub podem ser atualizados depois do primeiro push do repositorio.
